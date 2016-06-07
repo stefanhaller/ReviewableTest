@@ -1,6 +1,7 @@
 /* Bla bla bla */
 
-void foo(int x)
+template <typename T>
+void foo(T x)
 {
   auto y = x > 5;
 

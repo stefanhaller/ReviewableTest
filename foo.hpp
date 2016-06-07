@@ -1,3 +1,4 @@
 #pragma once
 
-void foo(int x);
+template <typename T>
+void foo(T x);
