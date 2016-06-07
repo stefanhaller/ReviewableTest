@@ -10,3 +10,9 @@ void foo(T x)
     printf("%s\n", "x is greater than 5");
   }
 }
+
+
+void main()
+{
+  foo(7);
+}
